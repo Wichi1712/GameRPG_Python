@@ -17,7 +17,7 @@ jugador = Jugador("nombre", 100, 50, "respuesta")
 #espadachin = Enemigo("Espadachin", 150, 15)
 
 
-print("Hola Bienvenido este es un juego RPG")
+print("Hola Bienvenido este es un juego RPG hecho en python")
 jugador.nombre = input("Por favor ingresa tu nombre:\n")
 print("Hola tu nombre es: " + jugador.nombre)
 print("Tu salud es: " + str(jugador.salud))
