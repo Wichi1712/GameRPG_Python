@@ -1,3 +1,5 @@
+
+#OJO Imcompleto
 from personajes import Jugador, Soldado, Arquero, Espadachin, EnemigoPrueba
 #import control
 from control import combate, recompensa, limpiarPantalla
